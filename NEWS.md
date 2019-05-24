@@ -1,3 +1,11 @@
+# 4.1.0 (Unreleased)
+
+### Features
+
+* Add `allow_nil` to the `validate_presence_of` matcher. ([#1100])
+
+[#1100]: https://github.com/thoughtbot/shoulda-matchers/pull/1100
+
 # 4.0.1
 
 ### Bug fixes
